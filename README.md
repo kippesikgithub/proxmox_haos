@@ -1,5 +1,8 @@
 # Proxmox Home Assistant Operating System
-installed from: https://tteck.github.io/Proxmox/  
+Welcome to my github repository, where you can find everything regarding our Home Assistant environment and beyond. You can find details and config (examples), information and explanation in this repo. 
+Want to know more about our HomeLab hardware setup: https://github.com/kippesikgithub/proxmox_hardware  
+Want to know more about our Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface  
+Home Assistant installed from: https://tteck.github.io/Proxmox/  
 
 # Home Assistant Virtual machine
 ## Settings
