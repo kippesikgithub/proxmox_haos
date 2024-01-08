@@ -5,14 +5,14 @@ Want to know more about our Home Assistant Interface: https://github.com/kippesi
 Home Assistant installed from: https://tteck.github.io/Proxmox/  
 
 # Home Assistant Virtual machine
-## Settings
+#### Settings
 HAOS Proxmox VM  
 6-cores  
 16GB RAM  
 Google Coral TPU M2 passthrough (frigate)  
 100GB Diskspace on 512GB nvme m2 drive  
 
-## Hardware Passthrough
+#### Hardware Passthrough
 Google Coral TPU M2 passthrough (Proxmox to HAOS)  
 USB Conbee2 Zigbee Dongle (Proxmox to HAOS)  
 
