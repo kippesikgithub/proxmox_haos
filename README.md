@@ -23,6 +23,7 @@ Since our Home Assistant interface is mostly custom build by me, I have a separa
 Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface
 
 ### Addons
+Detailed explanation of the used Addons in Home assistant.
 #### Frigate
 Frigate running as addon in HA  
 Frigate uses the M2 Google Coral TPU  
@@ -37,6 +38,7 @@ Node-Red running as addon in HA
 
 #### ESPHome
 EspHome running as addon in HA  
+I use EspHome a lot to create controllers for products, home-build custom projects, sensors, and more!  
 ##### Links to projects
 ESP-mmWave motion detection: https://github.com/kippesikgithub/esp_motion_mmwave  
 ESP-Playhouse for the kids: https://github.com/kippesikgithub/esp_playhouse  
@@ -72,4 +74,20 @@ Controlling the Android television by ADB commands.
 Google Drive backup running as addon in HA  
 Creating Home assistant backup every night, upload to Google Drive.  
   
+### Integrations
+Detailed explanation of the used Integrations in Home assistant.
 
+#### WLED
+I use WLED a lot to create custom (status) lights/lamps, or just for fun!  
+##### Links to projects
+WLED Garbage Truck indicator: https://github.com/kippesikgithub/wled_garbagetruck  
+
+#### EsPresense BLE Tracking
+I use Espresense throughout the home for BLE tracking (using our phones + HA companion app)  
+Setup EsPresense: https://github.com/kippesikgithub/espresense  
+
+### Other Home Assistant related Projects
+Wall Tablet in Living room: https://github.com/kippesikgithub/hass_walltablet  
+Hue Remotes Glow in the dark: https://github.com/kippesikgithub/remote_wall_switch_solutions  
+Monitor Washing Machine / Dryer: https://github.com/kippesikgithub/hass_washing_dryer  
+Detailed Power Monitoring: https://github.com/kippesikgithub/hass_detailed_power_monitoring  
