@@ -18,18 +18,45 @@ USB Conbee2 Zigbee Dongle (Proxmox to HAOS)
 
 # Home Assistant Operating System (HAOS)
 
-## Addons
-### Frigate
+### Interface
+Since our Home Assistant interface is mostly custom build by me, I have a separate Github repository for explanation and examples about our cards and configurations.  
+Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface
+
+### Addons
+#### Frigate
+Frigate running as addon in HA  
 Frigate uses the M2 Google Coral TPU  
 Frigate Setup: https://github.com/kippesikgithub/frigate  
 
-### MQTT
+#### Double Take
+Double Take (face recognition) running as addon in HA  
+Double Take uses 'person' detected snapshots from frigate as source images  
 
-### Zigbee2MQTT
+#### Node-Red
+Node-Red running as addon in HA  
 
-### Go2RTC
+#### ESPHome
+EspHome running as addon in HA  
+##### Links to projects
+ESP-mmWave motion detection: https://github.com/kippesikgithub/esp_motion_mmwave  
+ESP-Playhouse for the kids: https://github.com/kippesikgithub/esp_playhouse  
+ESP-Wifi controller (autonomous) Car: https://github.com/kippesikgithub/esp_rc_car  
+ESP-Speakers: https://github.com/kippesikgithub/esp_speaker  
+ESP-Duplo Train Controller: https://github.com/kippesikgithub/esp_bt_duplo  
 
-## Interface
-Since our Home Assistant interface is mostly custom build by me, I have a separate Github repository for explanation and examples about our cards and configurations.  
-Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface  
+#### MQTT
+MQTT broker running as addon in HA  
+
+#### Zigbee2MQTT
+Z2M running as addon in HA  
+
+#### Go2RTC
+Go2RTC running as addon in HA  
+
+#### AppDaemon
+AppDaemon running as addon in HA  
+##### ControllerX app
+
+
+  
 
