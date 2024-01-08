@@ -57,6 +57,19 @@ Go2RTC running as addon in HA
 AppDaemon running as addon in HA  
 ##### ControllerX app
 
+#### Ring2MQTT
+Ring2MQTT running as addon in HA  
+Connecting Home assistant to the Ring services via mqtt. Getting the switches, sensors and videostream.  
 
+#### Tailscale
+Tailscale running as addon in HA  
+
+#### ADB
+ADB running as addon in HA  
+Controlling the Android television by ADB commands.  
+
+#### Google Drive Backup
+Google Drive backup running as addon in HA  
+Creating Home assistant backup every night, upload to Google Drive.  
   
 
