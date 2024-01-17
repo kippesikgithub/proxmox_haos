@@ -43,6 +43,7 @@ I use EspHome a lot to create controllers for products, home-build custom projec
 ESP-mmWave motion detection: https://github.com/kippesikgithub/esp_motion_mmwave  
 ESP-Playhouse for the kids: https://github.com/kippesikgithub/esp_playhouse  
 ESP-Wifi controller (autonomous) Car: https://github.com/kippesikgithub/esp_rc_car  
+ESP-Clock: https://github.com/kippesikgithub/esp_pixelclock  
 ESP-Speakers: https://github.com/kippesikgithub/esp_speaker  
 ESP-Duplo Train Controller: https://github.com/kippesikgithub/esp_bt_duplo  
 
