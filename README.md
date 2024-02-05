@@ -82,6 +82,7 @@ Detailed explanation of the used Integrations in Home assistant.
 I use WLED a lot to create custom (status) lights/lamps, or just for fun!  
 ##### Links to projects
 WLED Garbage Truck indicator: https://github.com/kippesikgithub/wled_garbagetruck  
+WLED Kids Nightlight / Sleeptrainer: https://github.com/kippesikgithub/esp_kids_nightlight  
 
 #### EsPresense BLE Tracking
 I use Espresense throughout the home for BLE tracking (using our phones + HA companion app)  
