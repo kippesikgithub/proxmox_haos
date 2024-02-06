@@ -139,6 +139,9 @@ Controlling our screens via the SomfyRTS protocol
 #### Tasmota
 Running a lot of Tasmota devices throughout the home.
 
+#### Volumio
+Controlling Volumio (audio) instances throughout the home
+
 #### Radio Browser
 For sending radio streams to the mediaplayers throughout the home.
 
