@@ -115,6 +115,9 @@ For casting dashbaords, audio and video to multiple Google devices.
 #### LG Horizon
 To connect to the Ziggo Smart TV box.
 
+#### Philips TV
+Conncecting to our Philips television (android tv)
+
 #### Mitsubishi WF-RAC
 To connect to our Climate devices (Mitsubishi Heavy Industries).
 
@@ -132,6 +135,9 @@ Running a lot of Tasmota devices throughout the home.
 
 #### Radio Browser
 For sending radio streams to the mediaplayers throughout the home.
+
+#### PowerCalc
+Calculating power usage of devices that are not measured.
 
 #### Tile
 BLE tracker on our Bakfiets.
