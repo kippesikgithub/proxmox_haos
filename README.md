@@ -103,6 +103,9 @@ Using the Neerslag app from HACS to receive information about upcoming rain/snow
 #### Enphase Envoy
 To receive data from our Solar Envoy installation.
 
+#### Solar Forecast
+Forecasting how much solar energy there will be.
+
 #### Homewizard
 Using the HomeWiazerd P1 meter to receive data about Electricity and Gas usage
 
@@ -130,6 +133,9 @@ Picking up space weather about aurora, to capture with camera's
 #### Notifications for Android TV / Fire TV
 To display doorbell stuff on Live on the TV.
 
+#### ESP-SomfyRTS
+Controlling our screens via the SomfyRTS protocol
+
 #### Tasmota
 Running a lot of Tasmota devices throughout the home.
 
@@ -144,6 +150,9 @@ BLE tracker on our Bakfiets.
 
 #### WebRTC Camera
 Displaying camera streams in dashboards gathered by Go2RTC
+
+#### Browser MOD
+#### 
 
 ### Other Home Assistant related Projects
 Wall Tablet in Living room: https://github.com/kippesikgithub/hass_walltablet  
