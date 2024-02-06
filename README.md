@@ -154,6 +154,9 @@ BLE tracker on our Bakfiets.
 #### WebRTC Camera
 Displaying camera streams in dashboards gathered by Go2RTC
 
+#### Sabnzbd
+Receiving data from our Sabnzbd instance about downloads
+
 #### Browser MOD
 Using to display modded cards in our interface
 
