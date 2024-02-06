@@ -130,6 +130,15 @@ To display doorbell stuff on Live on the TV.
 #### Tasmota
 Running a lot of Tasmota devices throughout the home.
 
+#### Radio Browser
+For sending radio streams to the mediaplayers throughout the home.
+
+#### Tile
+BLE tracker on our Bakfiets.
+
+#### WebRTC Camera
+Displaying camera streams in dashboards gathered by Go2RTC
+
 ### Other Home Assistant related Projects
 Wall Tablet in Living room: https://github.com/kippesikgithub/hass_walltablet  
 Hue Remotes Glow in the dark: https://github.com/kippesikgithub/remote_wall_switch_solutions  
