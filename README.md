@@ -99,7 +99,8 @@ https://github.com/alandtse/tesla
 Using Buienradar integration to receive weather information.
 
 #### Neerslag app
-Using the Neerslag app from HACS to receive information about upcoming rain/snow/hail.
+Using the Neerslag app from HACS to receive information about upcoming rain/snow/hail.  
+https://github.com/aex351/home-assistant-neerslag-app
 
 #### Enphase Envoy
 To receive data from our Solar Envoy installation.
