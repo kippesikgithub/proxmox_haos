@@ -91,6 +91,32 @@ Setup EsPresense: https://github.com/kippesikgithub/espresense
 #### Shelly devices
 We use a lot of Shelly devices throuout the home (30+)
 
+#### Tesla (car) 
+To receive data and monitor the car, we use the Tesla integration from HACS.
+
+#### Buienradar
+Using Buienradar integration to receive weather information.
+
+#### Neerslag app
+Using the Neerslag app from HACS to receive information about upcoming rain/snow/hail.
+
+#### Enphase Envoy
+To receive data from our Solar Envoy installation.
+
+#### Homewizard
+Using the HomeWiazerd P1 meter to receive data about Electricity and Gas usage
+
+#### Toon
+Toon to receive data from the Eneco electricity/gas company.
+
+#### Google Cast
+For casting dashbaords, audio and video to multiple Google devices.
+
+#### LG Horizon
+To connect to the Ziggo Smart TV box.
+
+#### Mitsubishi WF-RAC
+To connect to our Climate devices (Mitsubishi Heavy Industries).
 ### Other Home Assistant related Projects
 Wall Tablet in Living room: https://github.com/kippesikgithub/hass_walltablet  
 Hue Remotes Glow in the dark: https://github.com/kippesikgithub/remote_wall_switch_solutions  
