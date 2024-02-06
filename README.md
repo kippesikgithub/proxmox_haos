@@ -22,7 +22,7 @@ USB Conbee2 Zigbee Dongle (Proxmox to HAOS)
 Since our Home Assistant interface is mostly custom build by me, I have a separate Github repository for explanation and examples about our cards and configurations.  
 Home Assistant Interface: https://github.com/kippesikgithub/ha_cards_interface
 
-### Addons
+## Addons
 Detailed explanation of the used Addons in Home assistant.
 #### Frigate
 Frigate running as addon in HA  
@@ -75,7 +75,7 @@ Controlling the Android television by ADB commands.
 Google Drive backup running as addon in HA  
 Creating Home assistant backup every night, upload to Google Drive.  
   
-### Integrations
+## Integrations
 Detailed explanation of the used Integrations in Home assistant.
 
 #### WLED
