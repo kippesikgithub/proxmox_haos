@@ -145,6 +145,9 @@ For sending radio streams to the mediaplayers throughout the home.
 #### PowerCalc
 Calculating power usage of devices that are not measured.
 
+#### Google Calendar
+Integrate the family calendar into HA
+
 #### Tile
 BLE tracker on our Bakfiets.
 
@@ -152,7 +155,10 @@ BLE tracker on our Bakfiets.
 Displaying camera streams in dashboards gathered by Go2RTC
 
 #### Browser MOD
-#### 
+Using to display modded cards in our interface
+
+#### Sun, Moon
+Receiving data from Sun and Moon
 
 ### Other Home Assistant related Projects
 Wall Tablet in Living room: https://github.com/kippesikgithub/hass_walltablet  
