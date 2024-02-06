@@ -92,7 +92,8 @@ Setup EsPresense: https://github.com/kippesikgithub/espresense
 We use a lot of Shelly devices throuout the home (30+)
 
 #### Tesla (car) 
-To receive data and monitor the car, we use the Tesla integration from HACS.
+To receive data and monitor the car, we use the Tesla integration from HACS.  
+https://github.com/alandtse/tesla
 
 #### Buienradar
 Using Buienradar integration to receive weather information.
@@ -109,6 +110,9 @@ Forecasting how much solar energy there will be.
 #### Homewizard
 Using the HomeWiazerd P1 meter to receive data about Electricity and Gas usage
 
+#### Frigate
+https://github.com/blakeblackshear/frigate
+
 #### Toon
 Toon to receive data from the Eneco electricity/gas company.
 
@@ -122,7 +126,8 @@ To connect to the Ziggo Smart TV box.
 Conncecting to our Philips television (android tv)
 
 #### Mitsubishi WF-RAC
-To connect to our Climate devices (Mitsubishi Heavy Industries).
+To connect to our Climate devices (Mitsubishi Heavy Industries).  
+https://github.com/jeatheak/Mitsubishi-WF-RAC-Integration
 
 #### IRobot Roomba
 To connect to our Vaccuum cleaner(s).
@@ -134,7 +139,8 @@ Picking up space weather about aurora, to capture with camera's
 To display doorbell stuff on Live on the TV.
 
 #### ESP-SomfyRTS
-Controlling our screens via the SomfyRTS protocol
+Controlling our screens via the SomfyRTS protocol.  
+https://github.com/rstrouse/ESPSomfy-RTS
 
 #### Tasmota
 Running a lot of Tasmota devices throughout the home.
@@ -161,7 +167,8 @@ Displaying camera streams in dashboards gathered by Go2RTC
 Receiving data from our Sabnzbd instance about downloads
 
 #### Browser MOD
-Using to display modded cards in our interface
+Using to display modded cards in our interface.  
+https://github.com/thomasloven/hass-browser_mod
 
 #### Sun, Moon
 Receiving data from Sun and Moon
