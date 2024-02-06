@@ -117,6 +117,19 @@ To connect to the Ziggo Smart TV box.
 
 #### Mitsubishi WF-RAC
 To connect to our Climate devices (Mitsubishi Heavy Industries).
+
+#### IRobot Roomba
+To connect to our Vaccuum cleaner(s).
+
+#### NOA Aurora Sensor
+Picking up space weather about aurora, to capture with camera's
+
+#### Notifications for Android TV / Fire TV
+To display doorbell stuff on Live on the TV.
+
+#### Tasmota
+Running a lot of Tasmota devices throughout the home.
+
 ### Other Home Assistant related Projects
 Wall Tablet in Living room: https://github.com/kippesikgithub/hass_walltablet  
 Hue Remotes Glow in the dark: https://github.com/kippesikgithub/remote_wall_switch_solutions  
