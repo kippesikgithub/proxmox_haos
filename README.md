@@ -88,6 +88,9 @@ WLED Kids Nightlight / Sleeptrainer: https://github.com/kippesikgithub/esp_kids_
 I use Espresense throughout the home for BLE tracking (using our phones + HA companion app)  
 Setup EsPresense: https://github.com/kippesikgithub/espresense  
 
+#### Shelly devices
+We use a lot of Shelly devices throuout the home (30+)
+
 ### Other Home Assistant related Projects
 Wall Tablet in Living room: https://github.com/kippesikgithub/hass_walltablet  
 Hue Remotes Glow in the dark: https://github.com/kippesikgithub/remote_wall_switch_solutions  
