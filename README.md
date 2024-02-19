@@ -179,3 +179,25 @@ Wall Tablet in Living room: https://github.com/kippesikgithub/hass_walltablet
 Hue Remotes Glow in the dark: https://github.com/kippesikgithub/remote_wall_switch_solutions  
 Monitor Washing Machine / Dryer: https://github.com/kippesikgithub/hass_washing_dryer  
 Detailed Power Monitoring: https://github.com/kippesikgithub/hass_detailed_power_monitoring  
+
+## Possible Issues / Fixes
+
+### Free Diskspace in HAOS smaller than expected
+Sometimes backups created by HAOS are not pruned automatically. Most of the times you can only see it because of the ./backup folder is very big, while in the HA interface you wont see any stored backups.  
+Resolve the issue:  
+- Install Terminal & SSH addon in HA
+- Install SMB addon in HA
+- Start the addon, and open the terminal
+- first change directory to root: 'cd ..'
+- than list the underlaying folders with the command: 'du -hs -d 1'
+- take a look at the list of folders and sizes
+- if your ./backup folder is greater than 0, and you dont see any backups in HA
+![image](https://github.com/kippesikgithub/proxmox_haos/assets/100353268/43be29ea-b143-4bea-8d2b-752f909c375c)  
+In the example you see the ./backup folder is over 20gb ......but .......  
+![image](https://github.com/kippesikgithub/proxmox_haos/assets/100353268/e5348cd3-e868-4b06-a54d-53f09076efc1)
+im HA we don't see any backups listed ......but .......
+![image](https://github.com/kippesikgithub/proxmox_haos/assets/100353268/0f274f69-5830-4b7d-aee5-e89af7e8754d)
+If we open the SMB share from HA in the folder Backups we do see a left-over created backup.
+- We can delete the backup via SMB, and the diskspace will be freeed to HA
+
+
