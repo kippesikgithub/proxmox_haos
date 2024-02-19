@@ -196,7 +196,7 @@ Resolve the issue:
 In the example you see the ./backup folder is over 20gb ......but .......  
 ![image](https://github.com/kippesikgithub/proxmox_haos/assets/100353268/e5348cd3-e868-4b06-a54d-53f09076efc1)
 im HA we don't see any backups listed ......but .......
-![image](https://github.com/kippesikgithub/proxmox_haos/assets/100353268/0f274f69-5830-4b7d-aee5-e89af7e8754d)
+![image](https://github.com/kippesikgithub/proxmox_haos/assets/100353268/0f274f69-5830-4b7d-aee5-e89af7e8754d)  
 If we open the SMB share from HA in the folder Backups we do see a left-over created backup.
 - We can delete the backup via SMB, and the diskspace will be freeed to HA
 
