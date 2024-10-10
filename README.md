@@ -46,6 +46,7 @@ ESP-Wifi controller (autonomous) Car: https://github.com/kippesikgithub/esp_rc_c
 ESP-Clock: https://github.com/kippesikgithub/esp_pixelclock  
 ESP-Speakers: https://github.com/kippesikgithub/esp_speaker  
 ESP-Duplo Train Controller: https://github.com/kippesikgithub/esp_bt_duplo  
+ESP-Led-Matrix: https://github.com/kippesikgithub/esp_ledmatrix  
 
 #### MQTT
 MQTT broker running as addon in HA  
